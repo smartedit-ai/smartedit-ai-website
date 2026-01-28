@@ -134,6 +134,25 @@ npm run build
 
 查看 [贡献指南](/development/contributing) 了解更多信息。
 
+### ☕ 请作者喝杯咖啡
+
+如果 SmartEdit AI 对你有帮助，欢迎请作者喝杯咖啡 ☕
+
+<div style="display: flex; justify-content: center; gap: 40px; margin: 40px 0; flex-wrap: wrap;">
+  <div style="text-align: center;">
+    <img src="/wechat-pay.jpg" alt="微信赞赏码" style="width: 200px; height: 200px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <p style="margin-top: 12px; font-size: 14px; color: #666;">微信赞赏</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="/alipay.jpg" alt="支付宝收款码" style="width: 200px; height: 200px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <p style="margin-top: 12px; font-size: 14px; color: #666;">支付宝赞赏</p>
+  </div>
+</div>
+
+<div style="text-align: center; margin-top: 20px;">
+  <p style="font-size: 13px; color: #999;">你的支持是我持续更新的动力 🙏</p>
+</div>
+
 ---
 
 <div style="text-align: center; margin-top: 40px;">
