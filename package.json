@@ -1,0 +1,22 @@
+{
+  "name": "smartedit-ai-docs",
+  "version": "1.0.0",
+  "description": "SmartEdit AI 产品文档网站",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0"
+  },
+  "keywords": [
+    "smartedit",
+    "ai",
+    "documentation",
+    "chrome-extension"
+  ],
+  "author": "SmartEdit Team",
+  "license": "MIT"
+}
